@@ -1,6 +1,27 @@
-# Autonomous Navigation System Development
+# CariGun
+# 12180562
+Readme.md
 
-Welcome to the Autonomous Navigation System Development repository. This project focuses on the development of autonomous navigation systems and collision avoidance mechanisms.
+### WELCOME BACK 👋
+
+<!--
+**CariGun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**12180562** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F12180562&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![github stats](https://github-readme-stats.vercel.app/api?username=12180562&show_icons=true&hide_border=true)](https://github.com/12180562)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12180562&layout=compact)](https://github.com/12180562)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=doli99)](https://solved.ac/doli99)
 
 ## About Me
 

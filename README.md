@@ -41,13 +41,6 @@ To install and set up this project, follow the steps below:
     pip install -r requirements.txt
     ```
 
-## Usage
-
-To run the autonomous navigation system, use the following command:
-
-```bash
-python main.py
-
 
 <!--
 **CariGun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

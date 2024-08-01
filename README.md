@@ -1,33 +1,13 @@
-# CariGun
 # 12180562
 Readme.md
 
 ### WELCOME BACK 👋
 
-<!--
-**CariGun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-**12180562** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F12180562&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![github stats](https://github-readme-stats.vercel.app/api?username=12180562&show_icons=true&hide_border=true)](https://github.com/12180562)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12180562&layout=compact)](https://github.com/12180562)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=doli99)](https://solved.ac/doli99)
-
 ## About Me
 
-- **Name:** [Your Name]
+- **Name:** [Wn-Jun Yoo]
 - **Undergraduate:** Inha University, Department of Naval Architecture and Ocean Engineering, Class of 2018
-- **Graduate:** Inha University Graduate School, Ship and Ocean Propulsion Laboratory, Class of 2024
+- **Graduate:** Inha University Graduate School, Propulsion Hydrodynamics Laboratory, Class of 2024
 - **Specialization:** Development of Autonomous Navigation Systems, Collision Avoidance
 
 ## Project Overview
@@ -67,3 +47,23 @@ To run the autonomous navigation system, use the following command:
 
 ```bash
 python main.py
+<!--
+**CariGun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**12180562** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F12180562&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![github stats](https://github-readme-stats.vercel.app/api?username=12180562&show_icons=true&hide_border=true)](https://github.com/12180562)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12180562&layout=compact)](https://github.com/12180562)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=doli99)](https://solved.ac/doli99)
+
+

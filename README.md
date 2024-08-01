@@ -1,11 +1,11 @@
-# 12180562
+# Won-Jun Yoo
 Readme.md
 
 ### WELCOME BACK 👋
 
 ## About Me
 
-- **Name:** [Wn-Jun Yoo]
+- **Name:** [Won-Jun Yoo]
 - **Undergraduate:** Inha University, Department of Naval Architecture and Ocean Engineering, Class of 2018
 - **Graduate:** Inha University Graduate School, Propulsion Hydrodynamics Laboratory, Class of 2024
 - **Specialization:** Development of Autonomous Navigation Systems, Collision Avoidance

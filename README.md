@@ -22,25 +22,7 @@ This project aims to enhance the capabilities of autonomous maritime vessels by 
    - Developing advanced collision avoidance strategies.
    - Utilizing sensor data and machine learning techniques to predict and prevent potential collisions.
 
-## Installation
-
-To install and set up this project, follow the steps below:
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/autonomous-navigation-system.git
-    ```
-
-2. Navigate to the project directory:
-    ```bash
-    cd autonomous-navigation-system
-    ```
-
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
+## Status Badge
 
 <!--
 **CariGun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
